@@ -1,0 +1,40 @@
+body{
+	text-align: justify;
+	font-family: 'Times New Roman';
+	background-color: whitesmoke;
+}
+ 
+section{
+    text-align: initial !important;*/
+    background: whitesmoke;
+    color: white;
+    padding: 15px;
+    width: 500px;
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+.blue1{
+	background-color: rgba(82, 164, 200, 0.9);
+}
+.blue2{
+	background-color: rgba(82, 164, 210, 0.9);
+}
+.blue3{
+	background-color: rgba(82, 164, 220, 0.9);
+}
+.blue4{
+	background-color: rgba(82, 164, 230, 0.9);
+}
+.blue5{
+	background-color: rgba(82, 164, 240, 0.9);
+}
+.blue6{
+	background-color: rgba(82, 164, 250, 0.9);
+}
+.tarde{
+	font-family: monospace;
+}
+
+
